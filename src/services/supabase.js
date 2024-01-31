@@ -6,3 +6,7 @@ const supabaseKey =
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 export default supabase;
+
+// login user supabase
+// user: renato@test.com
+// pass: 123456
